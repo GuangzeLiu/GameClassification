@@ -5,5 +5,7 @@
 
 
 citation:
-[Marko M.]. (2021). [Steam Reviews Dataset 2021]. Retrieved [Jan.27,2023] from [https://www.kaggle.com/datasets/najzeko/steam-reviews-2021].
-[Tristan]. (2022; Nov.8th). [All 55,000 Games on Steam (November 2022)]. Retrieved [Feb.10,2023] from [https://www.kaggle.com/datasets/tristan581/all-55000-games-on-steam-november-2022].
+
+>[Marko M.]. (2021). [Steam Reviews Dataset 2021]. Retrieved [Jan.27,2023] from [https://www.kaggle.com/datasets/najzeko/steam-reviews-2021].
+
+>[Tristan]. (2022; Nov.8th). [All 55,000 Games on Steam (November 2022)]. Retrieved [Feb.10,2023] from [https://www.kaggle.com/datasets/tristan581/all-55000-games-on-steam-november-2022].
