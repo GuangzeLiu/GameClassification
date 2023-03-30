@@ -3,6 +3,8 @@
 
   >steam_games(39 MB) data in https://drive.google.com/file/d/1XrJUAfwMvg15HCGT80Cd5xpijYj8xd8U/view?usp=share_link 
   >steam_reviews(8 GB) data in https://drive.google.com/file/d/159DFZ9CHX_XX8YFn-JTzw4PSOHzuIPSY/view?usp=sharing
+ 
+> 5000.csv(https://drive.google.com/file/d/1E42wT14WGFcZ7Sjks7N0uNsWO0tjY7Hp/view?usp=share_link) is the smaller dataset cut from the steam_reviews, and will be used in the newest version of the sentiment analysis
 
 
 citation:
